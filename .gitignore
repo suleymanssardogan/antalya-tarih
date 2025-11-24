@@ -1,0 +1,8 @@
+# Genel
+node_modules
+.DS_Store
+
+# Supabase/Next.js ortam dosyalari
+frontend/.env.local
+frontend/.env
+
