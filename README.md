@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+
+
+Bu link üzerinden gelişmeleri takip edebilirsiniz: https://antalya-tarih1.vercel.app/
 # Yakındaki Tarihi Yerler
 
 Antalya’daki tarihi noktaları Supabase (PostgreSQL + PostGIS) ve Next.js 14 (App Router) kullanarak listeleyen, harita üzerinde gösteren ve yol tarifi sunan tam yığın GIS uygulaması.
