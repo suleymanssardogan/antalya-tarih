@@ -4,7 +4,7 @@ DROP FUNCTION IF EXISTS public.yakindaki_yerler(
     radius DOUBLE PRECISION
 );
 
-CREATE OR REPLACE FUNCTION public.yakindaki_yerler(
+CREATE OR REPLACE FUNCTION public.yakindaki_yerler
     lat DOUBLE PRECISION,
     lon DOUBLE PRECISION,
     radius DOUBLE PRECISION DEFAULT 5000
