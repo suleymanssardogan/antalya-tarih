@@ -83,3 +83,4 @@ UPDATE public.tarihi_yerler
 SET gorsel_url = 'https://upload.wikimedia.org/wikipedia/commons/4/4f/Lyrboton_Kome_ruins.jpg'
 WHERE ad = 'Silifke Karasis (Lyrboton Kome)';
 
+

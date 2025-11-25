@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Kaleiçi",
+    "lat": 36.8841,
+    "lon": 30.7054,
+    "found": true,
+    "file": "scripts/downloaded_images/kaleic-i.jpg",
+    "source": "https://commons.wikimedia.org/wiki/Antalya",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Antalya_city.jpg",
+    "pageTitle": "Antalya",
+    "extmetadata": null,
+    "supabase": {
+      "bucket": "images",
+      "path": "places/kaleic-i.jpg",
+      "publicUrl": "https://uliarzhlxdjshuautrui.supabase.co/storage/v1/object/public/images/places%2Fkaleic-i.jpg"
+    }
+  },
+  {
+    "name": "Hadrian Kapısı",
+    "lat": 36.8838,
+    "lon": 30.7091,
+    "found": false
+  },
+  {
+    "name": "Hıdırlık Kulesi",
+    "lat": 36.8846,
+    "lon": 30.7018,
+    "found": false
+  },
+  {
+    "name": "Yivli Minare",
+    "lat": 36.8853,
+    "lon": 30.7041,
+    "found": false
+  },
+  {
+    "name": "Antalya Saat Kulesi",
+    "lat": 36.8859,
+    "lon": 30.705,
+    "found": true,
+    "file": "scripts/downloaded_images/antalya-saat-kulesi.jpg",
+    "source": "https://commons.wikimedia.org/wiki/Clock_towers",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fotograf_Morten_Lauveng_Storurmaker_Erik_Magnus_M%C3%B8rk_%288_of_50%29.jpg/2000px-Fotograf_Morten_Lauveng_Storurmaker_Erik_Magnus_M%C3%B8rk_%288_of_50%29.jpg",
+    "pageTitle": "Clock towers",
+    "extmetadata": null,
+    "supabase": {
+      "bucket": "images",
+      "path": "places/antalya-saat-kulesi.jpg",
+      "publicUrl": "https://uliarzhlxdjshuautrui.supabase.co/storage/v1/object/public/images/places%2Fantalya-saat-kulesi.jpg"
+    }
+  },
+  {
+    "name": "Kesik Minare (Korkut Camii)",
+    "lat": 36.8831,
+    "lon": 30.707,
+    "found": true,
+    "file": "scripts/downloaded_images/kesik-minare-korkut-camii.jpg",
+    "source": "https://commons.wikimedia.org/wiki/Antalya",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Antalya_city.jpg",
+    "pageTitle": "Antalya",
+    "extmetadata": null,
+    "supabase": {
+      "bucket": "images",
+      "path": "places/kesik-minare-korkut-camii.jpg",
+      "publicUrl": "https://uliarzhlxdjshuautrui.supabase.co/storage/v1/object/public/images/places%2Fkesik-minare-korkut-camii.jpg"
+    }
+  },
+  {
+    "name": "Suna-İnan Kıraç Kaleiçi Müzesi",
+    "lat": 36.8842,
+    "lon": 30.7061,
+    "found": false
+  },
+  {
+    "name": "Antalya Müzesi",
+    "lat": 36.8845,
+    "lon": 30.6888,
+    "found": false
+  },
+  {
+    "name": "Karain Mağarası",
+    "lat": 37.0221,
+    "lon": 30.5219,
+    "found": false
+  },
+  {
+    "name": "Perge Antik Kenti",
+    "lat": 36.9672,
+    "lon": 30.8525,
+    "found": true,
+    "file": "scripts/downloaded_images/perge-antik-kenti.jpg",
+    "source": "https://commons.wikimedia.org/wiki/Menologion_of_Basil_II",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Finding_the_head_of_John_the_Baptist_%28Menologion_of_Basil_II%29.jpg",
+    "pageTitle": "Menologion of Basil II",
+    "extmetadata": null,
+    "supabase": {
+      "bucket": "images",
+      "path": "places/perge-antik-kenti.jpg",
+      "publicUrl": "https://uliarzhlxdjshuautrui.supabase.co/storage/v1/object/public/images/places%2Fperge-antik-kenti.jpg"
+    }
+  },
+  {
+    "name": "Aspendos Tiyatrosu",
+    "lat": 36.9391,
+    "lon": 31.1722,
+    "found": true,
+    "file": "scripts/downloaded_images/aspendos-tiyatrosu.jpg",
+    "source": "https://commons.wikimedia.org/wiki/T%C3%BCrkiye",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Turkey_CIA_map_PL.jpg",
+    "pageTitle": "Türkiye",
+    "extmetadata": null,
+    "supabase": {
+      "bucket": "images",
+      "path": "places/aspendos-tiyatrosu.jpg",
+      "publicUrl": "https://uliarzhlxdjshuautrui.supabase.co/storage/v1/object/public/images/places%2Faspendos-tiyatrosu.jpg"
+    }
+  },
+  {
+    "name": "Termessos",
+    "lat": 37.0035,
+    "lon": 30.5325,
+    "found": true,
+    "file": "scripts/downloaded_images/termessos.jpg",
+    "source": "https://commons.wikimedia.org/wiki/Termessos",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Termessos_tombs.jpg",
+    "pageTitle": "Termessos",
+    "extmetadata": null,
+    "supabase": {
+      "bucket": "images",
+      "path": "places/termessos.jpg",
+      "publicUrl": "https://uliarzhlxdjshuautrui.supabase.co/storage/v1/object/public/images/places%2Ftermessos.jpg"
+    }
+  },
+  {
+    "name": "Side Antik Kenti",
+    "lat": 36.7676,
+    "lon": 31.3895,
+    "found": true,
+    "file": "scripts/downloaded_images/side-antik-kenti.jpg",
+    "source": "https://commons.wikimedia.org/wiki/Side",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Side.Great_Gate%2802%29.jpg",
+    "pageTitle": "Side",
+    "extmetadata": null,
+    "supabase": {
+      "bucket": "images",
+      "path": "places/side-antik-kenti.jpg",
+      "publicUrl": "https://uliarzhlxdjshuautrui.supabase.co/storage/v1/object/public/images/places%2Fside-antik-kenti.jpg"
+    }
+  },
+  {
+    "name": "Phaselis Antik Kenti",
+    "lat": 36.519,
+    "lon": 30.5519,
+    "found": true,
+    "file": "scripts/downloaded_images/phaselis-antik-kenti.jpg",
+    "source": "https://commons.wikimedia.org/wiki/Roman_aqueducts",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Acueducto_Milagros.jpg",
+    "pageTitle": "Roman aqueducts",
+    "extmetadata": null,
+    "supabase": {
+      "bucket": "images",
+      "path": "places/phaselis-antik-kenti.jpg",
+      "publicUrl": "https://uliarzhlxdjshuautrui.supabase.co/storage/v1/object/public/images/places%2Fphaselis-antik-kenti.jpg"
+    }
+  },
+  {
+    "name": "Olympos Antik Kenti",
+    "lat": 36.3964,
+    "lon": 30.4732,
+    "found": true,
+    "file": "scripts/downloaded_images/olympos-antik-kenti.jpg",
+    "source": "https://commons.wikimedia.org/wiki/Cytinus_hypocistis",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cytinus_hypocistis_CarteFrance.jpg",
+    "pageTitle": "Cytinus hypocistis",
+    "extmetadata": null,
+    "supabase": {
+      "bucket": "images",
+      "path": "places/olympos-antik-kenti.jpg",
+      "publicUrl": "https://uliarzhlxdjshuautrui.supabase.co/storage/v1/object/public/images/places%2Folympos-antik-kenti.jpg"
+    }
+  },
+  {
+    "name": "Chimaera (Yanartaş)",
+    "lat": 36.4055,
+    "lon": 30.471,
+    "found": true,
+    "file": "scripts/downloaded_images/chimaera-yanartas.jpg",
+    "source": "https://commons.wikimedia.org/wiki/Dracula_chimaera",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Dracula_chimaera_Orchi_23.jpg",
+    "pageTitle": "Dracula chimaera",
+    "extmetadata": null,
+    "supabase": {
+      "bucket": "images",
+      "path": "places/chimaera-yanartas.jpg",
+      "publicUrl": "https://uliarzhlxdjshuautrui.supabase.co/storage/v1/object/public/images/places%2Fchimaera-yanartas.jpg"
+    }
+  },
+  {
+    "name": "Düden Şelalesi (Üst)",
+    "lat": 36.9565,
+    "lon": 30.7281,
+    "found": true,
+    "file": "scripts/downloaded_images/du-den-s-elalesi-u-st.jpg",
+    "source": "https://commons.wikimedia.org/wiki/Waterfall",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dangar_Falls_Dorrigo-retouched-by-karstn.jpg/2000px-Dangar_Falls_Dorrigo-retouched-by-karstn.jpg",
+    "pageTitle": "Waterfall",
+    "extmetadata": null,
+    "supabase": {
+      "bucket": "images",
+      "path": "places/du-den-s-elalesi-u-st.jpg",
+      "publicUrl": "https://uliarzhlxdjshuautrui.supabase.co/storage/v1/object/public/images/places%2Fdu-den-s-elalesi-u-st.jpg"
+    }
+  },
+  {
+    "name": "Ariassos Antik Kenti",
+    "lat": 37.194,
+    "lon": 30.4467,
+    "found": false
+  },
+  {
+    "name": "Selge Antik Kenti",
+    "lat": 37.1132,
+    "lon": 31.1784,
+    "found": true,
+    "file": "scripts/downloaded_images/selge-antik-kenti.jpg",
+    "source": "https://commons.wikimedia.org/wiki/Eurymedon_Bridge_(Selge)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Eurymedon_Bridge%2C_Selge%2C_Turkey._Pic_01.jpg",
+    "pageTitle": "Eurymedon Bridge (Selge)",
+    "extmetadata": null,
+    "supabase": {
+      "bucket": "images",
+      "path": "places/selge-antik-kenti.jpg",
+      "publicUrl": "https://uliarzhlxdjshuautrui.supabase.co/storage/v1/object/public/images/places%2Fselge-antik-kenti.jpg"
+    }
+  },
+  {
+    "name": "Silifke Karasis (Lyrboton Kome)",
+    "lat": 37.0758,
+    "lon": 30.7695,
+    "found": false
+  }
+]
