@@ -17,6 +17,9 @@ Antalya’daki tarihi mekanları **Supabase (PostgreSQL + PostGIS)** ve **Next.j
 
 ---
 
+<img width="1153" height="845" alt="antalya-tarih" src="https://github.com/user-attachments/assets/59a58370-69b3-4d4f-b818-9682718135ac" />
+
+
 ## 🛠️ Teknolojiler
 
 | Katman | Teknoloji |
